@@ -1,28 +1,27 @@
-# MediCare Plus 🏥
+# Event Management System 🎉
 
-A healthcare management system built with PHP & MySQL featuring role-based login for patients, doctors, and admins.
+An event management web application built using ASP.NET MVC with API integration.
 
 ## Features
-- Role-based login (Admin, Doctor, Patient)
-- Appointment booking system
-- Doctor management
-- Patient records management
-- Medical reports
-- Messaging system
-- Service listings
-- Ratings and feedback
+- Event creation and management
+- Booking system
+- API integration
+- Admin dashboard
+- User management
 
 ## Technologies Used
-- PHP
-- MySQL
+- ASP.NET MVC
+- C#
+- SQL Server
 - HTML, CSS
 - JavaScript
+- jQuery
 
 ## How to Run
-1. Install XAMPP
-2. Clone this repository into `htdocs` folder
-3. Import `medicare_plus.sql` into phpMyAdmin
-4. Open `localhost/MediCarePlus/main.html`
+1. Clone this repository
+2. Open in Visual Studio
+3. Update connection string in `web.config`
+4. Run the application
 
 ## Developer
 Sabith Shafeek — github.com/sabith2005
