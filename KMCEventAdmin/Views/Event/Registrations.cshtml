@@ -1,0 +1,250 @@
+﻿@model List<KMCEventAdmin.Models.RegistrationVM>
+
+@{
+    ViewData["Title"] = "Event Registrations";
+}
+
+<style>
+    body {
+        margin: 0;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        background: #f4f7fa;
+        color: #222;
+    }
+
+    .page-container {
+        max-width: 1250px;
+        margin: 35px auto;
+        padding: 20px;
+    }
+
+    .top-link {
+        margin-bottom: 18px;
+    }
+
+        .top-link a {
+            text-decoration: none;
+            color: #2A6F97;
+            font-weight: 600;
+            font-size: 15px;
+        }
+
+            .top-link a:hover {
+                color: #000;
+            }
+
+    .page-card {
+        background: #ffffff;
+        border-radius: 18px;
+        box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+        padding: 28px;
+        border-top: 6px solid #2A6F97;
+    }
+
+    .page-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: 12px;
+        margin-bottom: 22px;
+    }
+
+    .page-title {
+        margin: 0;
+        color: #2A6F97;
+        font-size: 30px;
+        font-weight: 700;
+    }
+
+    .record-badge {
+        background: #e8f3f9;
+        color: #2A6F97;
+        padding: 10px 14px;
+        border-radius: 12px;
+        font-weight: 700;
+        font-size: 14px;
+    }
+
+    .table-wrap {
+        overflow-x: auto;
+        border-radius: 14px;
+    }
+
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        background: #fff;
+    }
+
+    thead th {
+        background: #2A6F97;
+        color: #ffffff;
+        padding: 14px 12px;
+        text-align: left;
+        font-size: 14px;
+        white-space: nowrap;
+    }
+
+    tbody td {
+        padding: 14px 12px;
+        border-bottom: 1px solid #e7edf2;
+        font-size: 14px;
+        vertical-align: middle;
+    }
+
+    tbody tr:nth-child(even) {
+        background: #f9fcfe;
+    }
+
+    tbody tr:hover {
+        background: #eef7fb;
+    }
+
+    .event-title-badge {
+        display: inline-block;
+        background: #edf7ed;
+        color: #1f7a36;
+        padding: 6px 10px;
+        border-radius: 20px;
+        font-size: 13px;
+        font-weight: 700;
+    }
+
+    .email-text {
+        color: #2A6F97;
+        font-weight: 600;
+    }
+
+    .date-text {
+        white-space: nowrap;
+        font-weight: 600;
+        color: #444;
+    }
+
+    .empty-box {
+        text-align: center;
+        background: #fff;
+        border: 1px dashed #d5dfe6;
+        border-radius: 14px;
+        padding: 40px 20px;
+    }
+
+        .empty-box h3 {
+            margin: 0 0 8px;
+            color: #b42318;
+        }
+
+        .empty-box p {
+            margin: 0;
+            color: #666;
+        }
+
+    .action-bar {
+        margin-top: 22px;
+        display: flex;
+        justify-content: flex-start;
+    }
+
+    .back-btn {
+        text-decoration: none;
+        background: #6c757d;
+        color: #ffffff;
+        padding: 11px 18px;
+        border-radius: 10px;
+        font-weight: 600;
+        transition: 0.3s ease;
+        display: inline-block;
+    }
+
+        .back-btn:hover {
+            background: #565e64;
+            color: #ffffff;
+        }
+
+    @@media (max-width: 768px) {
+        .page-container {
+            margin: 20px auto;
+            padding: 14px;
+        }
+
+        .page-card {
+            padding: 20px 16px;
+        }
+
+        .page-title {
+            font-size: 24px;
+        }
+
+        thead th,
+        tbody td {
+            padding: 12px 10px;
+            font-size: 13px;
+        }
+    }
+</style>
+
+<div class="page-container">
+    <div class="top-link">
+        <a href="/">KMCEventAdmin</a>
+    </div>
+
+    <div class="page-card">
+        <div class="page-header">
+            <h2 class="page-title">Event Registrations</h2>
+            <div class="record-badge">
+                Total Registrations: @(Model != null ? Model.Count : 0)
+            </div>
+        </div>
+
+        @if (Model != null && Model.Count > 0)
+        {
+            <div class="table-wrap">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Registration ID</th>
+                            <th>Event Title</th>
+                            <th>Event ID</th>
+                            <th>Participant ID</th>
+                            <th>Full Name</th>
+                            <th>Email</th>
+                            <th>Phone</th>
+                            <th>Registered At</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@item.RegistrationId</td>
+                                <td>
+                                    <span class="event-title-badge">
+                                        @item.EventTitle
+                                    </span>
+                                </td>
+                                <td>@item.EventId</td>
+                                <td>@item.ParticipantId</td>
+                                <td>@item.FullName</td>
+                                <td class="email-text">@item.Email</td>
+                                <td>@item.Phone</td>
+                                <td class="date-text">@item.RegisteredAt.ToString("dd/MM/yyyy HH:mm:ss")</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        }
+        else
+        {
+            <div class="empty-box">
+                <h3>No registrations found</h3>
+                <p>There are currently no event registrations to display.</p>
+            </div>
+        }
+
+        <div class="action-bar">
+            <a asp-action="Create" asp-controller="Event" class="back-btn">Back</a>
+        </div>
+    </div>
+</div>

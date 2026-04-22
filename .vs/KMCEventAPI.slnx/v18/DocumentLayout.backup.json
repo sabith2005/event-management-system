@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\sem 4\\SOC\\SOC API\\KMCEventAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E811E80-4C30-F3E6-64F8-C72D76C089A5}|KMCEventAPI\\KMCEventAPI.csproj|c:\\users\\user\\desktop\\sem 4\\soc\\soc api\\kmceventapi\\kmceventapi\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E811E80-4C30-F3E6-64F8-C72D76C089A5}|KMCEventAPI\\KMCEventAPI.csproj|solutionrelative:kmceventapi\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388DEC01-DC7D-4983-807C-E81713C609C2}|KMCEventAdmin\\KMCEventAdmin.csproj|c:\\users\\user\\desktop\\sem 4\\soc\\soc api\\kmceventapi\\kmceventadmin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{388DEC01-DC7D-4983-807C-E81713C609C2}|KMCEventAdmin\\KMCEventAdmin.csproj|solutionrelative:kmceventadmin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388DEC01-DC7D-4983-807C-E81713C609C2}|KMCEventAdmin\\KMCEventAdmin.csproj|c:\\users\\user\\desktop\\sem 4\\soc\\soc api\\kmceventapi\\kmceventadmin\\views\\event\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{388DEC01-DC7D-4983-807C-E81713C609C2}|KMCEventAdmin\\KMCEventAdmin.csproj|solutionrelative:kmceventadmin\\views\\event\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388DEC01-DC7D-4983-807C-E81713C609C2}|KMCEventAdmin\\KMCEventAdmin.csproj|c:\\users\\user\\desktop\\sem 4\\soc\\soc api\\kmceventapi\\kmceventadmin\\models\\eventvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388DEC01-DC7D-4983-807C-E81713C609C2}|KMCEventAdmin\\KMCEventAdmin.csproj|solutionrelative:kmceventadmin\\models\\eventvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388DEC01-DC7D-4983-807C-E81713C609C2}|KMCEventAdmin\\KMCEventAdmin.csproj|c:\\users\\user\\desktop\\sem 4\\soc\\soc api\\kmceventapi\\kmceventadmin\\models\\registrationvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388DEC01-DC7D-4983-807C-E81713C609C2}|KMCEventAdmin\\KMCEventAdmin.csproj|solutionrelative:kmceventadmin\\models\\registrationvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388DEC01-DC7D-4983-807C-E81713C609C2}|KMCEventAdmin\\KMCEventAdmin.csproj|c:\\users\\user\\desktop\\sem 4\\soc\\soc api\\kmceventapi\\kmceventadmin\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388DEC01-DC7D-4983-807C-E81713C609C2}|KMCEventAdmin\\KMCEventAdmin.csproj|solutionrelative:kmceventadmin\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CF2FB7-CA61-4212-A88A-B8527F5C33A3}|WebApplication1\\KMCEventWeb.csproj|c:\\users\\user\\desktop\\sem 4\\soc\\soc api\\kmceventapi\\webapplication1\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CF2FB7-CA61-4212-A88A-B8527F5C33A3}|WebApplication1\\KMCEventWeb.csproj|solutionrelative:webapplication1\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CF2FB7-CA61-4212-A88A-B8527F5C33A3}|WebApplication1\\KMCEventWeb.csproj|c:\\users\\user\\desktop\\sem 4\\soc\\soc api\\kmceventapi\\webapplication1\\models\\registrationvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CF2FB7-CA61-4212-A88A-B8527F5C33A3}|WebApplication1\\KMCEventWeb.csproj|solutionrelative:webapplication1\\models\\registrationvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E811E80-4C30-F3E6-64F8-C72D76C089A5}|KMCEventAPI\\KMCEventAPI.csproj|c:\\users\\user\\desktop\\sem 4\\soc\\soc api\\kmceventapi\\kmceventapi\\data\\registrationrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E811E80-4C30-F3E6-64F8-C72D76C089A5}|KMCEventAPI\\KMCEventAPI.csproj|solutionrelative:kmceventapi\\data\\registrationrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388DEC01-DC7D-4983-807C-E81713C609C2}|KMCEventAdmin\\KMCEventAdmin.csproj|c:\\users\\user\\desktop\\sem 4\\soc\\soc api\\kmceventapi\\kmceventadmin\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388DEC01-DC7D-4983-807C-E81713C609C2}|KMCEventAdmin\\KMCEventAdmin.csproj|solutionrelative:kmceventadmin\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E811E80-4C30-F3E6-64F8-C72D76C089A5}|KMCEventAPI\\KMCEventAPI.csproj|c:\\users\\user\\desktop\\sem 4\\soc\\soc api\\kmceventapi\\kmceventapi\\profile\\eventprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E811E80-4C30-F3E6-64F8-C72D76C089A5}|KMCEventAPI\\KMCEventAPI.csproj|solutionrelative:kmceventapi\\profile\\eventprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E811E80-4C30-F3E6-64F8-C72D76C089A5}|KMCEventAPI\\KMCEventAPI.csproj|c:\\users\\user\\desktop\\sem 4\\soc\\soc api\\kmceventapi\\kmceventapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E811E80-4C30-F3E6-64F8-C72D76C089A5}|KMCEventAPI\\KMCEventAPI.csproj|solutionrelative:kmceventapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388DEC01-DC7D-4983-807C-E81713C609C2}|KMCEventAdmin\\KMCEventAdmin.csproj|c:\\users\\user\\desktop\\sem 4\\soc\\soc api\\kmceventapi\\kmceventadmin\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388DEC01-DC7D-4983-807C-E81713C609C2}|KMCEventAdmin\\KMCEventAdmin.csproj|solutionrelative:kmceventadmin\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\sem 4\\SOC\\SOC API\\KMCEventAPI\\KMCEventAPI\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "KMCEventAPI\\Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\sem 4\\SOC\\SOC API\\KMCEventAPI\\KMCEventAPI\\Controllers\\EventController.cs",
+              "RelativeToolTip": "KMCEventAPI\\Controllers\\EventController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAADwv0wAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T00:45:10.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\sem 4\\SOC\\SOC API\\KMCEventAPI\\KMCEventAdmin\\Views\\Event\\Create.cshtml",
+              "RelativeDocumentMoniker": "KMCEventAdmin\\Views\\Event\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\sem 4\\SOC\\SOC API\\KMCEventAPI\\KMCEventAdmin\\Views\\Event\\Create.cshtml",
+              "RelativeToolTip": "KMCEventAdmin\\Views\\Event\\Create.cshtml",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAABsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-02T07:59:26.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EventVM.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\sem 4\\SOC\\SOC API\\KMCEventAPI\\KMCEventAdmin\\Models\\EventVM.cs",
+              "RelativeDocumentMoniker": "KMCEventAdmin\\Models\\EventVM.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\sem 4\\SOC\\SOC API\\KMCEventAPI\\KMCEventAdmin\\Models\\EventVM.cs",
+              "RelativeToolTip": "KMCEventAdmin\\Models\\EventVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T01:12:31.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\sem 4\\SOC\\SOC API\\KMCEventAPI\\KMCEventAdmin\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "KMCEventAdmin\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\sem 4\\SOC\\SOC API\\KMCEventAPI\\KMCEventAdmin\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "KMCEventAdmin\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T11:07:38.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegistrationVM.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\sem 4\\SOC\\SOC API\\KMCEventAPI\\KMCEventAdmin\\Models\\RegistrationVM.cs",
+              "RelativeDocumentMoniker": "KMCEventAdmin\\Models\\RegistrationVM.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\sem 4\\SOC\\SOC API\\KMCEventAPI\\KMCEventAdmin\\Models\\RegistrationVM.cs",
+              "RelativeToolTip": "KMCEventAdmin\\Models\\RegistrationVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T07:57:24.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\sem 4\\SOC\\SOC API\\KMCEventAPI\\KMCEventAdmin\\appsettings.json",
+              "RelativeDocumentMoniker": "KMCEventAdmin\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\sem 4\\SOC\\SOC API\\KMCEventAPI\\KMCEventAdmin\\appsettings.json",
+              "RelativeToolTip": "KMCEventAdmin\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-05T10:31:51.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\sem 4\\SOC\\SOC API\\KMCEventAPI\\WebApplication1\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\sem 4\\SOC\\SOC API\\KMCEventAPI\\WebApplication1\\Controllers\\EventController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\EventController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAIBJwEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T01:14:59.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegistrationVM.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\sem 4\\SOC\\SOC API\\KMCEventAPI\\WebApplication1\\Models\\RegistrationVM.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\RegistrationVM.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\sem 4\\SOC\\SOC API\\KMCEventAPI\\WebApplication1\\Models\\RegistrationVM.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\RegistrationVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T08:08:42.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegistrationRepo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\sem 4\\SOC\\SOC API\\KMCEventAPI\\KMCEventAPI\\Data\\RegistrationRepo.cs",
+              "RelativeDocumentMoniker": "KMCEventAPI\\Data\\RegistrationRepo.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\sem 4\\SOC\\SOC API\\KMCEventAPI\\KMCEventAPI\\Data\\RegistrationRepo.cs",
+              "RelativeToolTip": "KMCEventAPI\\Data\\RegistrationRepo.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAiwEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T08:09:16.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EventProfile.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\sem 4\\SOC\\SOC API\\KMCEventAPI\\KMCEventAPI\\Profile\\EventProfile.cs",
+              "RelativeDocumentMoniker": "KMCEventAPI\\Profile\\EventProfile.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\sem 4\\SOC\\SOC API\\KMCEventAPI\\KMCEventAPI\\Profile\\EventProfile.cs",
+              "RelativeToolTip": "KMCEventAPI\\Profile\\EventProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T00:35:19.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\sem 4\\SOC\\SOC API\\KMCEventAPI\\KMCEventAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "KMCEventAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\sem 4\\SOC\\SOC API\\KMCEventAPI\\KMCEventAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "KMCEventAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T00:47:45.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\sem 4\\SOC\\SOC API\\KMCEventAPI\\KMCEventAdmin\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "KMCEventAdmin\\Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\sem 4\\SOC\\SOC API\\KMCEventAPI\\KMCEventAdmin\\Controllers\\EventController.cs",
+              "RelativeToolTip": "KMCEventAdmin\\Controllers\\EventController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAiwGMAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T07:54:26.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\sem 4\\SOC\\SOC API\\KMCEventAPI\\KMCEventAdmin\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "KMCEventAdmin\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\sem 4\\SOC\\SOC API\\KMCEventAPI\\KMCEventAdmin\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "KMCEventAdmin\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T07:58:41.69Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+﻿@model KMCEventAdmin.Models.EventVM
+
+<h2>Edit Event</h2>
+
+<form asp-action="Edit" method="post">
+    <input asp-for="eventId" type="hidden" />
+
+    <div>
+        <label>Title</label>
+        <input asp-for="Title" />
+    </div>
+
+    <div>
+        <label>Description</label>
+        <textarea asp-for="Description"></textarea>
+    </div>
+
+    <div>
+        <label>Event Type</label>
+        <input asp-for="EventType" />
+    </div>
+
+    <div>
+        <label>Venue</label>
+        <input asp-for="Venue" />
+    </div>
+
+    <div>
+        <label>Event Date</label>
+        <input asp-for="EventDate" type="datetime-local" value="@Model.EventDate.ToString("yyyy-MM-ddTHH:mm")" />
+    </div>
+
+    <div>
+        <label>Capacity</label>
+        <input asp-for="Capacity" />
+    </div>
+
+    <div>
+        <label>Is Active</label>
+        <input asp-for="IsActive" type="checkbox" />
+    </div>
+
+    <div>
+        <label>Organizer ID</label>
+        <input asp-for="OrganizerId" />
+    </div>
+
+    <button type="submit">Update</button>
+</form>

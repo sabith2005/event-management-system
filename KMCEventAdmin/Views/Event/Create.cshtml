@@ -1,0 +1,307 @@
+﻿@model KMCEventAdmin.Models.EventVM
+
+@{
+    ViewData["Title"] = "Manage Event";
+}
+
+<style>
+    body {
+        margin: 0;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        background-color: #f4f7fa;
+        color: #222;
+    }
+
+    .page-container {
+        max-width: 900px;
+        margin: 40px auto;
+        padding: 20px;
+    }
+
+    .page-card {
+        background: #ffffff;
+        border-radius: 18px;
+        box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+        padding: 30px;
+        border-top: 6px solid #2A6F97;
+    }
+
+    .page-title {
+        margin: 0 0 25px;
+        text-align: center;
+        color: #2A6F97;
+        font-size: 30px;
+        font-weight: 700;
+    }
+
+    .message-box {
+        background: #fdeaea;
+        color: #b42318;
+        border: 1px solid #f5c2c7;
+        border-radius: 10px;
+        padding: 12px 15px;
+        margin-bottom: 20px;
+        font-weight: 500;
+    }
+
+    .top-actions {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 12px;
+        align-items: end;
+        justify-content: space-between;
+        margin-bottom: 25px;
+    }
+
+    .search-box {
+        flex: 1;
+        min-width: 280px;
+        background: #f8fbfd;
+        border: 1px solid #d9e7f0;
+        border-radius: 14px;
+        padding: 16px;
+    }
+
+        .search-box label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: 600;
+            color: #2A6F97;
+        }
+
+    .search-row {
+        display: flex;
+        gap: 10px;
+        flex-wrap: wrap;
+    }
+
+        .search-row input {
+            flex: 1;
+            min-width: 180px;
+        }
+
+    .view-link {
+        display: inline-block;
+        text-decoration: none;
+        background: #2A6F97;
+        color: #fff;
+        padding: 11px 18px;
+        border-radius: 10px;
+        font-weight: 600;
+        transition: 0.3s ease;
+    }
+
+        .view-link:hover {
+            background: #1f5677;
+        }
+
+    .form-grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 18px 20px;
+    }
+
+    .form-group {
+        display: flex;
+        flex-direction: column;
+    }
+
+        .form-group.full {
+            grid-column: 1 / -1;
+        }
+
+        .form-group label {
+            margin-bottom: 7px;
+            font-weight: 600;
+            color: #222;
+        }
+
+    .form-control,
+    textarea.form-control {
+        width: 100%;
+        box-sizing: border-box;
+        padding: 12px 14px;
+        border: 1px solid #cfd8df;
+        border-radius: 10px;
+        font-size: 15px;
+        background: #fff;
+        transition: 0.3s ease;
+    }
+
+        .form-control:focus,
+        textarea.form-control:focus {
+            border-color: #4EA1D3;
+            outline: none;
+            box-shadow: 0 0 0 3px rgba(78, 161, 211, 0.16);
+        }
+
+    textarea.form-control {
+        min-height: 130px;
+        resize: vertical;
+    }
+
+    .checkbox-wrap {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        min-height: 44px;
+        padding-top: 8px;
+    }
+
+        .checkbox-wrap input[type="checkbox"] {
+            width: 18px;
+            height: 18px;
+            accent-color: #28A745;
+        }
+
+    .button-row {
+        margin-top: 28px;
+        display: flex;
+        gap: 12px;
+        flex-wrap: wrap;
+    }
+
+    .btn {
+        border: none;
+        border-radius: 10px;
+        padding: 12px 20px;
+        font-size: 15px;
+        font-weight: 600;
+        cursor: pointer;
+        text-decoration: none;
+        transition: 0.3s ease;
+    }
+
+    .btn-add {
+        background: #28A745;
+        color: #fff;
+    }
+
+    .btn-update {
+        background: #2A6F97;
+        color: #fff;
+    }
+
+    .btn-delete {
+        background: #DC3545;
+        color: #fff;
+    }
+
+    .btn-back {
+        background: #6c757d;
+        color: #fff;
+    }
+
+    .btn-search {
+        background: #4EA1D3;
+        color: #fff;
+    }
+
+    .btn:hover {
+        opacity: 0.92;
+    }
+
+    @@media (max-width: 768px) {
+        .page-container {
+            margin: 20px auto;
+            padding: 14px;
+        }
+
+        .page-card {
+            padding: 22px 18px;
+        }
+
+        .page-title {
+            font-size: 24px;
+        }
+
+        .form-grid {
+            grid-template-columns: 1fr;
+        }
+    }
+</style>
+
+<div class="page-container">
+    <div class="page-card">
+        <h1 class="page-title">Manage Event</h1>
+
+        @if (TempData["Message"] != null)
+        {
+            <div class="message-box">@TempData["Message"]</div>
+        }
+
+        <div class="top-actions">
+            <form method="get" asp-action="GetById" class="search-box">
+                <label>Enter Event ID to Search</label>
+                <div class="search-row">
+                    <input type="number" name="id" class="form-control" placeholder="Enter Event ID" />
+                    <button type="submit" class="btn btn-search">Search</button>
+                </div>
+            </form>
+
+            <a asp-action="Registrations" class="view-link">View Registrations</a>
+        </div>
+
+        <form method="post">
+            <div class="form-grid">
+                <div class="form-group">
+                    <label>Event ID</label>
+                    <input asp-for="eventId" class="form-control" />
+                </div>
+
+                <div class="form-group">
+                    <label>Title</label>
+                    <input asp-for="Title" class="form-control" />
+                </div>
+
+                <div class="form-group full">
+                    <label>Description</label>
+                    <textarea asp-for="Description" class="form-control"></textarea>
+                </div>
+
+                <div class="form-group">
+                    <label>Event Type</label>
+                    <input asp-for="EventType" class="form-control" />
+                </div>
+
+                <div class="form-group">
+                    <label>Venue</label>
+                    <input asp-for="Venue" class="form-control" />
+                </div>
+
+                <div class="form-group">
+                    <label>Event Date</label>
+                    <input asp-for="EventDate"
+                           type="datetime-local"
+                           class="form-control"
+                           value="@Model.EventDate.ToString("yyyy-MM-ddTHH:mm")" />
+                </div>
+
+                <div class="form-group">
+                    <label>Capacity</label>
+                    <input asp-for="Capacity" class="form-control" />
+                </div>
+
+                <div class="form-group">
+                    <label>Is Active</label>
+                    <div class="checkbox-wrap">
+                        <input asp-for="IsActive" type="checkbox" />
+                        <span>Mark event as active</span>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label>Organizer ID</label>
+                    <input asp-for="OrganizerId" class="form-control" />
+                </div>
+            </div>
+
+            <div class="button-row">
+                <button type="submit" asp-action="Create" asp-controller="Event" class="btn btn-add">Add New</button>
+                <button type="submit" asp-action="Edit" asp-controller="Event" class="btn btn-update">Update</button>
+                <button type="submit" asp-action="Delete" asp-controller="Event" class="btn btn-delete">Delete</button>
+                <a asp-controller="Event" asp-action="Create" class="btn btn-back">Back</a>
+            </div>
+        </form>
+    </div>
+</div>

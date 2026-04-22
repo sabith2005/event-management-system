@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="KMCEventAdmin/KMCEventAdmin.csproj" Id="388dec01-dc7d-4983-807c-e81713c609c2" />
+  <Project Path="KMCEventAPI/KMCEventAPI.csproj" />
+  <Project Path="WebApplication1/KMCEventWeb.csproj" Id="57cf2fb7-ca61-4212-a88a-b8527f5c33a3" />
+</Solution>

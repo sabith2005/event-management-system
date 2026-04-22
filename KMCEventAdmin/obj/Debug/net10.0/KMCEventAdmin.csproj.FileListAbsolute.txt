@@ -1,0 +1,202 @@
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\bin\Debug\net10.0\appsettings.json
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\bin\Debug\net10.0\KMCEventAdmin.staticwebassets.runtime.json
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\bin\Debug\net10.0\KMCEventAdmin.staticwebassets.endpoints.json
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\bin\Debug\net10.0\KMCEventAdmin.exe
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\bin\Debug\net10.0\KMCEventAdmin.deps.json
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\bin\Debug\net10.0\KMCEventAdmin.runtimeconfig.json
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\bin\Debug\net10.0\KMCEventAdmin.dll
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\bin\Debug\net10.0\KMCEventAdmin.pdb
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\KMCEventAdmin.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\KMCEventAdmin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\KMCEventAdmin.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\KMCEventAdmin.AssemblyInfo.cs
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\KMCEventAdmin.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\KMCEventAdmin.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\KMCEventAdmin.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\KMCEventAdmin.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\scopedcss\bundle\KMCEventAdmin.styles.css
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\scopedcss\projectbundle\KMCEventAdmin.bundle.scp.css
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\k6366w7td4-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\xl4vk9i1x2-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\9p5pr41g3k-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\4cby04ih6p-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\uqm0p6wjex-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\rtywaxg1fq-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\39sq08z396-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\gh0mx1ss0b-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\ywowglstt8-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\26nwlzndt6-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\p6nc4qdhsa-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\6ggqqcmtys-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\jmbob0q2ny-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\0yvazerdph-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\zr54npqq0h-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\ot2neruv7l-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\17i0horzct-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\qdzd84ne9b-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\84x7jbyv8e-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\k0ut5aptb6-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\7kxv5vpvv5-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\t6x4kzgfo7-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\9nkziptm44-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\jpzxpbs9k7-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\n0o1pek2wz-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\pp78stpbpb-{0}-06098lyss8-06098lyss8.gz
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\url42xq8e8-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\56toe41fv4-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\ojit9p3mvf-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\bxesw6swww-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\nue070rd66-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\a2d9oy1f6m-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\ecjjlb291i-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\ogcjyaq88a-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\umuzohb79o-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\8kwltwr8e8-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\t273aeair1-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\nmu7h9qqbw-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\ytpqopi6vv-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\7dwiu9xz39-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\wx9wl36aue-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\kjjxbpgtb3-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\y07i6963b3-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\quyl9y6zah-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\057kzjl4y5-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\kz9mvvfmaf-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\59vg72zct6-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\fdh7kxu0th-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\8q8r903qtl-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\opqsnc5cln-{0}-356vix0kms-356vix0kms.gz
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\9e8jprk5c6-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\inl43c42s5-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\ajotfq1ghn-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\hkzzhocwj1-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\hm7o7g1b0j-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\rb7ctr8gg1-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\w3j43umtwj-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\fwe46kdnsu-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\hq1lklx4py-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\ayf7oqmlks-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\0wfyz0rmyj-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\0vchxrqt7h-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\zzlck0r57l-{0}-xkndetd39j-xkndetd39j.gz
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\0x9aby8qqa-{0}-xkndetd39j-xkndetd39j.gz
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\KMCEvent.348B0536.Up2Date
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\KMCEventAdmin.dll
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\refint\KMCEventAdmin.dll
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\KMCEventAdmin.pdb
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\KMCEventAdmin.genruntimeconfig.cache
+C:\Users\User\Desktop\soc 5013\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\ref\KMCEventAdmin.dll
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\bin\Debug\net10.0\appsettings.json
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\bin\Debug\net10.0\KMCEventAdmin.staticwebassets.endpoints.json
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\bin\Debug\net10.0\KMCEventAdmin.staticwebassets.runtime.json
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\bin\Debug\net10.0\KMCEventAdmin.exe
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\bin\Debug\net10.0\KMCEventAdmin.deps.json
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\bin\Debug\net10.0\KMCEventAdmin.runtimeconfig.json
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\bin\Debug\net10.0\KMCEventAdmin.dll
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\bin\Debug\net10.0\KMCEventAdmin.pdb
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\KMCEventAdmin.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\KMCEventAdmin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\KMCEventAdmin.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\KMCEventAdmin.AssemblyInfo.cs
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\KMCEventAdmin.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\KMCEventAdmin.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\KMCEventAdmin.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\KMCEventAdmin.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\scopedcss\bundle\KMCEventAdmin.styles.css
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\scopedcss\projectbundle\KMCEventAdmin.bundle.scp.css
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\k6366w7td4-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\xl4vk9i1x2-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\9p5pr41g3k-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\4cby04ih6p-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\uqm0p6wjex-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\rtywaxg1fq-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\39sq08z396-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\gh0mx1ss0b-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\ywowglstt8-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\26nwlzndt6-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\p6nc4qdhsa-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\6ggqqcmtys-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\jmbob0q2ny-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\0yvazerdph-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\zr54npqq0h-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\ot2neruv7l-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\17i0horzct-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\qdzd84ne9b-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\84x7jbyv8e-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\k0ut5aptb6-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\7kxv5vpvv5-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\t6x4kzgfo7-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\9nkziptm44-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\jpzxpbs9k7-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\n0o1pek2wz-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\pp78stpbpb-{0}-06098lyss8-06098lyss8.gz
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\url42xq8e8-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\56toe41fv4-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\ojit9p3mvf-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\bxesw6swww-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\nue070rd66-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\a2d9oy1f6m-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\ecjjlb291i-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\ogcjyaq88a-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\umuzohb79o-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\8kwltwr8e8-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\t273aeair1-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\nmu7h9qqbw-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\ytpqopi6vv-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\7dwiu9xz39-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\wx9wl36aue-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\kjjxbpgtb3-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\y07i6963b3-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\quyl9y6zah-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\057kzjl4y5-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\kz9mvvfmaf-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\59vg72zct6-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\fdh7kxu0th-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\8q8r903qtl-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\opqsnc5cln-{0}-356vix0kms-356vix0kms.gz
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\9e8jprk5c6-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\inl43c42s5-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\ajotfq1ghn-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\hkzzhocwj1-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\hm7o7g1b0j-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\rb7ctr8gg1-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\w3j43umtwj-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\fwe46kdnsu-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\hq1lklx4py-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\ayf7oqmlks-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\0wfyz0rmyj-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\0vchxrqt7h-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\zzlck0r57l-{0}-xkndetd39j-xkndetd39j.gz
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\compressed\0x9aby8qqa-{0}-xkndetd39j-xkndetd39j.gz
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\KMCEvent.348B0536.Up2Date
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\KMCEventAdmin.dll
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\refint\KMCEventAdmin.dll
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\KMCEventAdmin.pdb
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\KMCEventAdmin.genruntimeconfig.cache
+C:\Users\User\Desktop\sem 4\SOC\SOC API\KMCEventAPI\KMCEventAdmin\obj\Debug\net10.0\ref\KMCEventAdmin.dll
